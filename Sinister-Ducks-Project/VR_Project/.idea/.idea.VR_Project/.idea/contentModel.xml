@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\benat\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\benat\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_VR_Project.1015592695.00" t="ExcludeRecursive" />
+    <e p="D:\Documents\School\IAT 445\Project\iat445-project\Sinister-Ducks-Project\VR_Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="LocomotionController.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="BrokenVector" t="Include">
+            <e p="LowPolyShaders" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="LowPolyPBRShader.shader" t="Include" />
+                <e p="LowPolyUnlitShader.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Character Models" t="Include">
+            <e p="Robot" t="Include">
+              <e p="blank.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Music" t="Include">
+          <e p="References.txt" t="Include" />
+        </e>
+        <e p="References.txt" t="Include" />
+        <e p="Samples" t="Include">
+          <e p="SimpleLowPolyNature" t="Include">
+            <e p="Readme.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="SimpleWater.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Terrain Tools" t="Include">
+            <e p="0.1.0-preview" t="Include">
+              <e p="Terrain Assets" t="Include">
+                <e p="ThirdPartyNotices.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AddObjectsToList.cs" t="Include" />
+          <e p="CameraMovementLeftAxis.cs" t="Include" />
+          <e p="DoorUnlock.cs" t="Include" />
+          <e p="Finger.cs" t="Include" />
+          <e p="FollowPhysics.cs" t="Include" />
+          <e p="HandController.cs" t="Include" />
+          <e p="Hands.cs" t="Include" />
+          <e p="MomAI.cs" t="Include" />
+          <e p="MoveTo.cs" t="Include" />
+          <e p="PerspectiveShift.cs" t="Include" />
+          <e p="QuitApplication.cs" t="Include" />
+          <e p="RayTrigger.cs" t="Include" />
+          <e p="ResetToStart.cs" t="Include" />
+          <e p="SceneSwitcher.cs" t="Include" />
+          <e p="ToyChestCollide.cs" t="Include" />
+        </e>
+        <e p="XR-WristPockets-main" t="Include">
+          <e p="XR-WristPockets-main" t="Include">
+            <e p="Assets" t="Include">
+              <e p="_WristInventory" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="ColliderMeasurer.cs" t="Include" />
+                  <e p="Extra" t="Include">
+                    <e p="BoundsTest.cs" t="Include" />
+                    <e p="MeshDrawer.cs" t="Include" />
+                  </e>
+                  <e p="LookRotator.cs" t="Include" />
+                  <e p="WristSocket.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Pixelplacement" t="Include">
+                <e p="Surge" t="Include">
+                  <e p="Spline" t="Include">
+                    <e p="Art" t="Include">
+                      <e p="Shaders" t="Include">
+                        <e p="Invisible.shader" t="Include" />
+                      </e>
+                    </e>
+                    <e p="Editor" t="Include">
+                      <e p="SplineAnchorEditor.cs" t="Include" />
+                      <e p="SplineEditor.cs" t="Include" />
+                      <e p="SplineTangentEditor.cs" t="Include" />
+                    </e>
+                    <e p="Objects" t="Include">
+                      <e p="BezierCurves.cs" t="Include" />
+                      <e p="CurveDetail.cs" t="Include" />
+                      <e p="Spline.cs" t="Include" />
+                      <e p="SplineAnchor.cs" t="Include" />
+                      <e p="SplineFollower.cs" t="Include" />
+                      <e p="SplineTangent.cs" t="Include" />
+                    </e>
+                    <e p="Utilities" t="Include">
+                      <e p="SplineControlledParticleSystem.cs" t="Include" />
+                      <e p="SplineRenderer.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Tween" t="Include">
+                    <e p="Helpers" t="Include">
+                      <e p="TweenBase.cs" t="Include" />
+                      <e p="TweenEngine.cs" t="Include" />
+                      <e p="TweenUtilities.cs" t="Include" />
+                    </e>
+                    <e p="Tween.cs" t="Include" />
+                    <e p="TweenActions" t="Include">
+                      <e p="AnchoredPosition.cs" t="Include" />
+                      <e p="CameraBackgroundColor.cs" t="Include" />
+                      <e p="CanvasGroupAlpha.cs" t="Include" />
+                      <e p="FieldOfView.cs" t="Include" />
+                      <e p="ImageColor.cs" t="Include" />
+                      <e p="LightColor.cs" t="Include" />
+                      <e p="LightIntensity.cs" t="Include" />
+                      <e p="LightRange.cs" t="Include" />
+                      <e p="LocalPosition.cs" t="Include" />
+                      <e p="LocalRotation.cs" t="Include" />
+                      <e p="LocalScale.cs" t="Include" />
+                      <e p="PanStereo.cs" t="Include" />
+                      <e p="Pitch.cs" t="Include" />
+                      <e p="Position.cs" t="Include" />
+                      <e p="RawImageColor.cs" t="Include" />
+                      <e p="Rotate.cs" t="Include" />
+                      <e p="Rotation.cs" t="Include" />
+                      <e p="ShaderColor.cs" t="Include" />
+                      <e p="ShaderFloat.cs" t="Include" />
+                      <e p="ShaderInt.cs" t="Include" />
+                      <e p="ShaderVector.cs" t="Include" />
+                      <e p="ShakePosition.cs" t="Include" />
+                      <e p="Size.cs" t="Include" />
+                      <e p="SplinePercentage.cs" t="Include" />
+                      <e p="SpriteRendererColor.cs" t="Include" />
+                      <e p="TextColor.cs" t="Include" />
+                      <e p="TextMeshColor.cs" t="Include" />
+                      <e p="ValueColor.cs" t="Include" />
+                      <e p="ValueFloat.cs" t="Include" />
+                      <e p="ValueInt.cs" t="Include" />
+                      <e p="ValueRect.cs" t="Include" />
+                      <e p="ValueVector2.cs" t="Include" />
+                      <e p="ValueVector3.cs" t="Include" />
+                      <e p="ValueVector4.cs" t="Include" />
+                      <e p="Volume.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="ProjectSettings" t="Include">
+              <e p="ProjectVersion.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="VR_Project.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
