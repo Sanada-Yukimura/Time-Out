@@ -53,3 +53,4 @@
 *.meta linguist-generated
 *.prefab linguist-generated
 *.unity linguist-generated
+VR_Project filter=lfs diff=lfs merge=lfs -text
